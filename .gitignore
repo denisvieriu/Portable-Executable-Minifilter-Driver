@@ -1,0 +1,14 @@
+syntax: glob
+
+*.exe
+*.obj
+*.pdb
+*.tlog
+*.lastbuildstate
+*.log
+*.suo
+*.db
+*.ipch
+*.ilk
+*.opendb
+*.db
